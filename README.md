@@ -1,23 +1,23 @@
 
 # Apk-AAB-Converter
 
-## Descrição
-O Apk-AAB-Converter é uma ferramenta simples para converter arquivos APK (Android Package) para arquivos AAB (Android App Bundle) e vice-versa. Esta ferramenta foi desenvolvida para ajudar desenvolvedores Android a gerenciar e distribuir suas aplicações de forma mais eficiente, aproveitando os benefícios do Android App Bundle.
+## Beschreibung
+Apk-AAB-Converter ist ein einfaches Tool zum Konvertieren von APK-Dateien (Android Package) in AAB-Dateien (Android App Bundle) und umgekehrt. Dieses Tool wurde entwickelt, um Android-Entwicklern zu helfen, ihre Anwendungen effizienter zu verwalten und zu verteilen und dabei die Vorteile des Android App Bundles zu nutzen.
 
-## Recursos
-- Converte arquivos APK para AAB.
-- Converte arquivos AAB para APK.
-- Interface simples e fácil de usar.
+## Merkmale
+- Konvertiert APK-Dateien in AAB.
+- Konvertiert AAB-Dateien in APK.
+- Einfache, leicht zu bedienende Schnittstelle.
 
-## Como Usar
-1. Faça o download e instale o Apk-AAB-Converter em seu dispositivo Android.
-2. Abra o aplicativo e selecione a opção "Converter APK para AAB" ou "Converter AAB para APK", dependendo da sua necessidade.
-3. Selecione o arquivo APK ou AAB que deseja converter.
-4. Aguarde o processo de conversão ser concluído.
-5. O arquivo convertido será salvo na pasta de saída padrão.
+## Wie man es benutzt
+1. Laden Sie Apk-AAB-Converter herunter und installieren Sie es auf Ihrem Android-Gerät.
+2. Öffnen Sie die Anwendung und wählen Sie die Option "APK in AAB konvertieren" oder "AAB in APK konvertieren", je nach Ihren Bedürfnissen.
+3. Wählen Sie die APK- oder AAB-Datei aus, die Sie konvertieren möchten.
+4. Warten Sie, bis der Konvertierungsprozess abgeschlossen ist.
+5. Die konvertierte Datei wird im Standard-Ausgabeordner gespeichert.
 
-## Contribuindo
-Contribuições são bem-vindas! Se você deseja contribuir com novos recursos, correções de bugs ou melhorias na interface, sinta-se à vontade para abrir um problema ou enviar uma solicitação de pull request.
+## Mitmachen
+Beiträge sind willkommen! Wenn Sie neue Funktionen, Fehlerkorrekturen oder Verbesserungen der Benutzeroberfläche beisteuern möchten, öffnen Sie einen Fehler oder senden Sie einen Pull-Request.
 
-## Licença
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
+## Lizenz
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details
